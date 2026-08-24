@@ -1,0 +1,16 @@
+# Local Python environments (recreated from requirements, not committed)
+.venv/
+venv/
+env/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# macOS Finder metadata
+.DS_Store
+
+# Large local data and generated model outputs
+Mindboggle/data_raw/
+Mindboggle/data_processed/
+Mindboggle/model_outputs/
