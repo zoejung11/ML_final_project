@@ -1,0 +1,28 @@
+{
+  "train": [
+    "OASIS-TRT-20-20",
+    "OASIS-TRT-20-6",
+    "OASIS-TRT-20-15",
+    "OASIS-TRT-20-5",
+    "OASIS-TRT-20-10",
+    "OASIS-TRT-20-14",
+    "OASIS-TRT-20-16",
+    "OASIS-TRT-20-19",
+    "OASIS-TRT-20-7",
+    "OASIS-TRT-20-13",
+    "OASIS-TRT-20-18",
+    "OASIS-TRT-20-11",
+    "OASIS-TRT-20-2",
+    "OASIS-TRT-20-12"
+  ],
+  "val": [
+    "OASIS-TRT-20-3",
+    "OASIS-TRT-20-17",
+    "OASIS-TRT-20-8"
+  ],
+  "test": [
+    "OASIS-TRT-20-9",
+    "OASIS-TRT-20-1",
+    "OASIS-TRT-20-4"
+  ]
+}
